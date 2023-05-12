@@ -53,11 +53,11 @@ NUMEROS
 
 FECHA DE NACIMIENTO SEUDOCODIGO
 
-calcula la edad de una persona basándose en la fecha de nacimiento
+** calcula la edad de una persona basándose en la fecha de nacimiento
 
-preguntamos la fecha de nacimiento 
-le restamos el año en que nacio al año en el que estamos
-y asi podemos saver cuantos años tiene 
+* preguntamos la fecha de nacimiento 
+* le restamos el año en que nacio al año en el que estamos
+* asi podemos saver cuantos años tiene 
 
 
 
