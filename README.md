@@ -58,7 +58,7 @@ FECHA DE NACIMIENTO SEUDOCODIGO
 * preguntamos la fecha de nacimiento 
 * le restamos el año en que nacio al año en el que estamos
 * asi podemos saver cuantos años tiene ahora
-*
+
 
 
 
