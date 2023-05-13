@@ -35,8 +35,6 @@ PROSESO
 
 
 
-
-
 Hot N Cold
 
 ** de farenheit a centigrados 
