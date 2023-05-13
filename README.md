@@ -10,6 +10,31 @@ ingredientes
 * picante 
 * pimienta 
 
+PROSESO
+
+* ponemos la arina en una mesa 
+* le echamos agua sal consome pimienta 
+* y amasamos asta que se haga una mezcla omogenia
+* dejamos reposar por 30 minutos 
+* preparamos la salsa 
+* ponemos a cocinar los tomates en agua le ponemos sal cebolla ajo
+* lo dejamos herbir asta que se cocine
+* luego lo ponemos en la licuadora y licuamos 
+* dejamos la salsa por un lado
+* preparamos la salsa picante 
+* cortamos en en cuadros el jamon 
+* cortamos el peperoni 
+* continuamos con la masa 
+* amasamos para estirar y darle forma a la masa 
+* luego le colocamos la salsa, el jamon, y el peperoni
+* y lo metemos al horno a que se cocine durante 35 minutos
+* al pasar el tiempo la sacamos y la cortamos 
+* y por ultimo la servimos por porciones 
+
+
+
+
+
 
 
 Hot N Cold
