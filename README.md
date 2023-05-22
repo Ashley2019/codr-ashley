@@ -71,7 +71,7 @@ GEOMETRIA
 * despues de hacer esta operacion nos va a dar el resultado
 
 NUMEROS
-* [WhatsApp Image 2023-05-12 at 4 43 43 PM](https://github.com/Ashley2019/codr-ashley/assets/132409297/6323f527-926f-4e40-9cb7-45baba2e29a1)
+* ![WhatsApp Image 2023-05-22 at 5 55 46 PM](https://github.com/Ashley2019/codr-ashley/assets/132409297/51af7104-1020-4923-ae96-b0075887cff3)
 
 
 FECHA DE NACIMIENTO SEUDOCODIGO
@@ -83,9 +83,17 @@ FECHA DE NACIMIENTO SEUDOCODIGO
 * asi podemos saver cuantos años tiene ahora
 
 
+TESORO
+* Cofre izquierdo: El cofre del medio tiene un tesoro
+* Cofre medio: Todos estos cofres tienen tesoros dentro
+* Cofre derecho: Solo uno de estos cofres tiene tesoros.
 
+¿Qué cofres tienen tesoros?
 
-
-
+* el cofre de enmedio no tiene tesoro
+* los cofres no tienen tesoros 
+* los cofres no tienen tesoros 
+*  lo que quiere decir que ek cofre de la derecha y el cofre izquierdo tiene un tesoro
+*  
  
  
